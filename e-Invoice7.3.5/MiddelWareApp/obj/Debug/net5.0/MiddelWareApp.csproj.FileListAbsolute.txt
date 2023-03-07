@@ -1,0 +1,15 @@
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\MiddelWareApp.deps.json
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\MiddelWareApp.dll
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\ref\MiddelWareApp.dll
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\MiddelWareApp.pdb
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.csprojAssemblyReference.cache
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.AssemblyInfoInputs.cache
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.AssemblyInfo.cs
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.csproj.CoreCompileInputs.cache
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.dll
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\ref\MiddelWareApp.dll
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.pdb
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\Entitys.dll
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\bin\Debug\net5.0\Entitys.pdb
+H:\AssignApplication\e-Invoice7.3.5\MiddelWareApp\obj\Debug\net5.0\MiddelWareApp.csproj.CopyComplete

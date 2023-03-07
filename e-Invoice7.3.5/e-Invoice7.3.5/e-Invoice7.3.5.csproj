@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>e_Invoice7._3._5</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiddelWareApp\MiddelWareApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JsonFile\" />
+  </ItemGroup>
+
+</Project>

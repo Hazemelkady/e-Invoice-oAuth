@@ -1,0 +1,12 @@
+H:\AssignApplication\e-Invoice7.3.5\Entitys\bin\Debug\net5.0\Entitys.deps.json
+H:\AssignApplication\e-Invoice7.3.5\Entitys\bin\Debug\net5.0\Entitys.dll
+H:\AssignApplication\e-Invoice7.3.5\Entitys\bin\Debug\net5.0\ref\Entitys.dll
+H:\AssignApplication\e-Invoice7.3.5\Entitys\bin\Debug\net5.0\Entitys.pdb
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.GeneratedMSBuildEditorConfig.editorconfig
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.AssemblyInfoInputs.cache
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.AssemblyInfo.cs
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.csproj.CoreCompileInputs.cache
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.dll
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\ref\Entitys.dll
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.pdb
+H:\AssignApplication\e-Invoice7.3.5\Entitys\obj\Debug\net5.0\Entitys.csprojAssemblyReference.cache

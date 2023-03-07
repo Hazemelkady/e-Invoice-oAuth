@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvx7Mw3m1L0lb3fCjbqLNHNu7ZBRNEYmcBsRldul/jM8gIMcuSU5u7ay9zPXP0ZqmOvCTpTPsha9RTmnkr0EMg==",
+  "success": true,
+  "projectFilePath": "H:\\AssignApplication\\e-Invoice7.3.5\\Entitys\\Entitys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hazem Elkady\\.nuget\\packages\\newtonsoft.json\\13.0.3-beta1\\newtonsoft.json.13.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
